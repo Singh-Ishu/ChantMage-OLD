@@ -1,5 +1,10 @@
 # Chant Mage
 
+##NOTE: This project has been abandoned and i have no plans of continuing it as of now. I might come back to it someday to finish it but no plans of it as such.
+The project was initially made as a "short hackathon scrap project" and thus I didn't use any frameworks or technologies that something like this needs.
+While it is possible to implement and finish this is HTML, CSS and plain JS it is simply pointless. I am currently reworking this using Unreal so that it can be
+executed to a level a game like this deserves.
+
 ## The Game:
 Chant Mage is an immersive offline RPG built entirely in html, CSS, and VanillaJavaScript, where your voice is your greatest weapon.
 Step into the boots of a powerful mage, capable of conjuring spells by uttering their ancient names.
